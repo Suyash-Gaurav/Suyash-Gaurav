@@ -49,7 +49,7 @@ class Researcher:
             "continual_learning": "PaPI — neuroplasticity, but for FLOPs",
             "xai": "Agent audit trails (your LLM can't blame stochastic parrots)",
             "uq": "Teaching networks to say 'I don't know' before hallucinating",
-            "governance": "FINOS — because 'the model did it' is not a legal defense"
+            "governance": "GaaS — because 'the model did it' is not a legal defense"
         }
     
     def execute(self, problem: str):
