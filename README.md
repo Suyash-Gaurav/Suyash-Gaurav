@@ -1,11 +1,14 @@
 
 ```
 $ ssh suyash@bro
-[AUTH] public_key verified
+[AUTH] public_key verified ✓
 [LOAD] research_modules... [OK]
 [MOUNT] tensor_cores... [OK]
-[WARN] uncertainty_bounds uncalibrated — proceeding anyway
-[WARN] Reviewer #2 detected in vicinity
+[INIT] CuDA... [OK]
+[CALIB] Uncertainty bounds... [WARN] — embracing the inherent stochasticity of both models and academia
+[WARN] Reviewer #2 lurking. Raising temperature to 0.9 and enabling sarcasm sampling.
+[INFO] Epoch 1/∞ commenced. Optimizing under the harsh gaze of double-blind peer review.
+[STATUS] "In the beginning was the Gradient, and the Gradient was with the Researcher..."
 ```
 
 ##  `whoami`
@@ -58,19 +61,20 @@ personality:  [curiosity, interdisciplinary_chaos, low_tolerance_for_bullshit]
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash-Gaurav&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F3FF&text_color=FFFFFF" alt="Language Distribution" />
 </div>
 
-## 🌐 Academic & Professional Nodes
+##  Academic & Professional Nodes
 
-- 📄 **ResearchGate:** [Suyash Gaurav](https://www.researchgate.net/scientific-contributions/Suyash-Gaurav-2316969207)
-- 💼 **LinkedIn:** [Connect](https://www.linkedin.com/in/suyash-gaurav-9493b1214/)
-- 📧 **PGP / Contact:** `s23224522 [at] tiu [dot] ac [dot] jp`
+- **ResearchGate:** [Suyash Gaurav](https://www.researchgate.net/scientific-contributions/Suyash-Gaurav-2316969207)
+- **LinkedIn:** [Connect](https://www.linkedin.com/in/suyash-gaurav-9493b1214/)
+- **PGP / Contact:** `s23224522 [at] tiu [dot] ac [dot] jp`
 
 > Currently open to collaborations on efficient architectures, uncertainty quantification that actually works in production, and AI governance that doesn't read like it was written by a committee of stochastic parrots.
 
 ```
 $ exit
-# Connection closed. The models are still training.
-# "The academy is tired. The future, mercifully, is not."
+# Connection closed by remote host.
+# Models are still training (as they have been for the last 47 epochs).
+
 ```
 
-
+ "The academy is tired. The future, mercifully, is not."
 
