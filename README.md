@@ -1,7 +1,4 @@
-
-
 <div align="center">
-# Konichiwa
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Applied+ML+Researcher+%40+TIU;Compressing+ViTs+.+.+.;Auditing+Autonomous+Agents;Teaching+Nets+Epistemic+Humility" alt="Typing SVG" /></a>
 
@@ -73,8 +70,8 @@ class Researcher:
   <tr>
     <td width="50%" valign="top">
 
-### 🔬 Spectral Ridge Compression
-**Status:** `ICLR '26 `  
+###  Spectral Ridge Compression
+**Status:** `Ongoing`  
 Shrinking ViTs while preserving spectral structure. Currently being gaslit by Theorem 4.1.
 
 **Stack:** `PyTorch` `JAX` `Linear Algebra` `SVD`
@@ -83,7 +80,7 @@ Shrinking ViTs while preserving spectral structure. Currently being gaslit by Th
     <td width="50%" valign="top">
 
 ###  PaPI (Progressive Inference)
-**Status:** `arXiv '25 `  
+**Status:** `Accepted at MiT press `  
 Pathway-based Progressive Inference for energy-efficient continual learning.
 
 **Stack:** `timm` `einops` `Continual Learning`
@@ -94,7 +91,7 @@ Pathway-based Progressive Inference for energy-efficient continual learning.
     <td width="50%" valign="top">
 
 ### ⚖️ FINOS Governance
-**Status:** `arXiv '25 ✅`  
+**Status:** `preprint ✅`  
 Decision auditability for autonomous agents. Because "the model did it" is not a legal defense.
 
 **Stack:** `xAI` `Agent Systems` `Governance`
