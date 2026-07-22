@@ -1,6 +1,4 @@
 <div align="center">
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F3FF&center=true&vCenter=true&width=600&lines=Applied+ML+Researcher+%40+TIU;Compressing+ViTs+.+.+.;Auditing+Autonomous+Agents;Teaching+Nets+Epistemic+Humility" alt="Typing SVG" /></a>
 
 <!-- Badges -->
 <p>
@@ -11,7 +9,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Suyash-Gaurav&color=00F3FF&style=flat-square&label=PROFILE+VIEWS" alt="profile views" />
 
 </div>
 
@@ -90,7 +87,7 @@ Pathway-based Progressive Inference for energy-efficient continual learning.
   <tr>
     <td width="50%" valign="top">
 
-### ⚖️ FINOS Governance
+### ⚖️  Governance as a Service GaaS
 **Status:** `preprint ✅`  
 Decision auditability for autonomous agents. Because "the model did it" is not a legal defense.
 
