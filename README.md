@@ -57,7 +57,7 @@ Shrinking ViTs while preserving spectral structure. Currently being gaslit by Th
     <td width="50%" valign="top">
 
 ###  PaPI (Progressive Inference)
-**Status:** `Accepted at MiT press `  
+**Status:** `Accepted at MiT press  ✅`  
 Pathway-based Progressive Inference for energy-efficient continual learning.
 
 **Stack:** `timm` `einops` `Continual Learning`
@@ -68,7 +68,7 @@ Pathway-based Progressive Inference for energy-efficient continual learning.
     <td width="50%" valign="top">
 
 ### ⚖️  Governance as a Service GaaS
-**Status:** `preprint ✅`  
+**Status:** `preprint`  
 Decision auditability for autonomous agents. Because "the model did it" is not a legal defense.
 
 **Stack:** `xAI` `Agent Systems` `Governance`
@@ -77,7 +77,7 @@ Decision auditability for autonomous agents. Because "the model did it" is not a
     <td width="50%" valign="top">
 
 ### 📉 Uncertainty Quantification
-**Status:** `WIP 🔥`  
+**Status:** `WIP `  
 Teaching networks epistemic humility before they hallucinate your production data away.
 
 **Stack:** `GPyTorch` `Bayesian DL` `Conformal Prediction`
@@ -87,28 +87,6 @@ Teaching networks epistemic humility before they hallucinate your production dat
 </table>
 
 <br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" /> Environment & Dependencies
-
-```yaml
-# requirements.txt
-compute:      [PyTorch>=2.1, JAX>=0.4.20, CUDA]
-vision:       [timm, einops, opencv-python]
-probabilistic: [gpytorch, scikit-learn]
-infra:        [Docker, Weights & Biases, LaTeX, McU]
-personality:  [curiosity, interdisciplinary_chaos, low_tolerance_for_bullshit]
-```
-
-<div align="center">
-
-| Category | Tools |
-|:---:|:---:|
-| **Deep Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![JAX](https://img.shields.io/badge/JAX-000000?style=flat-square&logo=jax&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
-| **Vision** | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![timm](https://img.shields.io/badge/timm-000000?style=flat-square) |
-| **Probabilistic** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black) |
-
-</div>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" /> Academic & Professional Nodes
