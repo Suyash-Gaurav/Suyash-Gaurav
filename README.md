@@ -1,12 +1,7 @@
 
 ```
-$ ssh suyash@tiu-lab
+$ ssh suyash@tiu-x5P
 [AUTH] public_key verified ✓
-[LOAD] research_modules... [OK]
-[MOUNT] tensor_cores... [OK]
-[INIT] CUDA... [OK]
-[CALIB] Uncertainty bounds... [WARN] — embracing inherent stochasticity
-[WARN] Reviewer #2 detected. Raising temperature to 0.9.
 [INFO] Epoch 1/∞ commenced. Optimizing under double-blind peer review.
 [STATUS] "In the beginning was the Gradient, and the Gradient was with the Researcher..."
 ```
