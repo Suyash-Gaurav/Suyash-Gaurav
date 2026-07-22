@@ -130,20 +130,6 @@ personality:  [curiosity, interdisciplinary_chaos, low_tolerance_for_bullshit]
 
 </div>
 
-<br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Chart" width="25" /> System Telemetry
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Suyash-Gaurav&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F3FF&icon_color=00F3FF&text_color=FFFFFF&rank_icon=github" alt="Compute Metrics" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suyash-Gaurav&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00F3FF&text_color=FFFFFF" alt="Language Distribution" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suyash-Gaurav&theme=algolia&hide_border=true&background=0D1117&stroke=00F3FF&ring=00F3FF&fire=FF6F00&currStreakLabel=00F3FF" alt="GitHub Streak" />
-</div>
-
-<br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite.png" alt="Satellite" width="25" /> Academic & Professional Nodes
 
@@ -159,7 +145,6 @@ personality:  [curiosity, interdisciplinary_chaos, low_tolerance_for_bullshit]
 
 <br>
 
-<div align="center">
 
 ```
 $ exit
@@ -168,5 +153,3 @@ $ exit
 ```
 **"The academy is tired. The future, mercifully, is not."**
 
-</div>
-```
